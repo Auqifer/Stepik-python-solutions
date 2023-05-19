@@ -14,4 +14,5 @@ for i in l:
     else:
         res.append("en")
 print(*list(set(res)) if len(set(res)) == 1 else ["mix"])
+#fsdafsad
 

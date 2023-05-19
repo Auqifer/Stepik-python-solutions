@@ -12,3 +12,4 @@ for i in l:
 res = [int(i) for i in res]
 res = set(res)
 print(*sorted(list(res)))
+#fdsafasd
