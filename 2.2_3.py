@@ -13,3 +13,4 @@ res = [i for i in range(1, int(n) + 1)]
 res[int(x) - 1:int(y)] = res[int(x) - 1:int(y)][::-1]
 res[int(a) - 1:int(b)] = res[int(a) - 1:int(b)][::-1]
 print(*res)
+#Fdsafasfasfasdfas
